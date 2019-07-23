@@ -1,0 +1,204 @@
+	body{
+
+		margin: 0;
+		padding: 0;
+		overflow-x: hidden;
+	}
+
+	.nav-item{
+
+		padding-left: 10px;
+
+	}
+
+	.input-form{
+
+		padding-left: 10px;
+	}
+
+	li > a{
+
+		font-size: 15px;
+		color: #636262;
+
+	}
+
+
+	.nav-link:hover{
+
+		border-bottom: 1px solid #636262;
+
+		color: #636262;
+		
+	}
+
+	.form-control{
+
+		border-style: none;
+		border-bottom: 1px solid #636262;
+		border-radius: 0px;
+		padding-left: 10px;
+		
+	}
+
+	.form-control:hover {
+
+		border-style: none;
+		border-bottom: 1px solid #636262;
+
+	}
+	
+	input.form-control:focus{
+
+		-webkit-box-shadow: none;
+		box-shadow: none;
+
+	}
+
+	.vl{
+
+		width: 2px;
+	    background-color:#a3a3a3;
+	    height: 115px;
+	    position: absolute;
+	    
+	}
+
+	.freedom-call {
+
+		font-size: 15px;
+		padding-left: 8%;
+		text-align: justify;
+		color: #636262;
+
+	}
+
+	h6{
+
+		font-size: 14px;
+		font-weight: bold;
+	}
+
+	.para{
+
+		font-size: 14px;
+		margin-top: 10%;
+	}
+
+	.btn{
+
+		font-size: 12px;
+		background-color: #db3b50;
+		border:none;
+		border-radius: 0px;
+		padding: 10px 20px 10px 20px;
+	}
+
+	.btn:hover{
+
+		background-color: #df5163;
+	}
+
+	.link{
+
+		color: #db3b50;
+		font-size: 12px;
+		font-weight: bold;
+	}
+
+	.link:hover{
+
+		text-decoration: none;
+		color: #db3b50;
+		
+	}
+
+	.link{
+
+        font-size: 15px;
+        transition:1000ms font-size;
+	}
+
+	.link:hover{
+
+        font-size: 20px;
+           
+	}
+
+
+	h3{
+
+		margin-top: 30%;
+	}
+
+	.vl2{
+
+		width: 2px;
+	    background-color:#a3a3a3;
+	    height: 90px;
+	    position: absolute;
+	    
+	}
+
+
+	.nike-sport {
+
+		font-size: 14px;
+		padding-left: 8%;
+		text-align: justify;
+		color: #636262;
+
+	}
+
+
+	.bg-picture{
+
+		margin-top: 3%;
+		overflow:hidden;
+		position:relative;
+		background-image: url('./images/runners.jpg');
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: 675px;
+		background-position: center center;
+
+	}
+
+
+	.bg-head{
+
+		color: #fff;
+		margin-top: 35%;
+		font-size: 43px;
+	}
+
+
+	.vl3{
+
+		width: 3px;
+	    background-color:#ffffff;
+	    height: 95px;
+	    position: absolute;
+	    
+	}
+
+	.bg-para{
+
+		color: #fff;		
+		font-size: 15px;
+		padding-left: 7%;	
+	}
+
+	.bg-btn{
+
+		background-color: #db3b50;
+		color: #fff;
+		font-size: 14px;
+		padding: 10px 20px 10px 20px;
+	}
+
+	.bg-btn:hover {
+
+		background-color: #db3b50;
+		color: #fff;
+	}
